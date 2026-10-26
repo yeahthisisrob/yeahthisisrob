@@ -37,13 +37,13 @@ Also: [QuickSight Asset Manager](https://github.com/yeahthisisrob/quicksight-ass
 
 #### Skills
 
-**Data engineering** · Lakehouse on AWS · Apache Iceberg · AWS Glue · Athena · Lake Formation · Spark / PySpark · dbt · DuckDB · DMS · Step Functions · EventBridge · Redshift
+**Data engineering** · Lakehouse on AWS · Apache Iceberg · AWS Glue · Athena · Lake Formation · Spark / PySpark · dbt · DuckDB · DMS · Step Functions · EventBridge · Redshift · Apache Calcite
 
 **Data modeling** · Medallion layers · Kimball dimensional models · data contracts · lineage (OpenLineage)
 
 **Analytics** · Amazon QuickSight · SageMaker Unified Studio / DataZone · dashboards and governance
 
-**Languages** · Python · TypeScript · JavaScript · SQL · PHP
+**Languages** · Python · TypeScript · JavaScript · Java · SQL · PHP
 
 **AWS** · CDK · Lambda · API Gateway · S3 · CloudFront · ECS · Bedrock · CodePipeline · CodeArtifact
 
